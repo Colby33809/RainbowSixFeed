@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '761B31D3452E26427F3550EF1D2868AD'
-               BlueprintName = 'Pods-RainbowSixFeed'
+               BlueprintIdentifier = '6B7ABEF297D628A1BBDBF647C1651207'
+               BlueprintName = 'SwiftyJSON'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Pods-RainbowSixFeed.framework'>
+               BuildableName = 'SwiftyJSON.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
