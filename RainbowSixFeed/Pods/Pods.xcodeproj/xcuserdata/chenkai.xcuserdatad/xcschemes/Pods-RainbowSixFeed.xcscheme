@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '761B31D3452E26427F3550EF1D2868AD'
+               BlueprintIdentifier = '50E16FE27F80DA56105F656131B46438'
                BlueprintName = 'Pods-RainbowSixFeed'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-RainbowSixFeed.framework'>
